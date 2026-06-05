@@ -1,0 +1,2 @@
+Hello from send-file test.
+This file is used to verify transfer functionality.

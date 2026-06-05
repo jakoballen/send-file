@@ -1,0 +1,26 @@
+# Compiled binary
+sendfile
+*.out
+*.o
+*.obj
+
+# macOS system files
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.xcodeproj/
+*.xcworkspace/
+
+# Build artifacts
+build/
+bin/
+cmake-build-*/
+
+# Logs / temp files
+*.log
+*.tmp
+
+# Optional: compiled debug files
+*.dSYM/
